@@ -1,0 +1,27 @@
+{
+  "intern": {
+    "Functional correctness": 40,
+    "Basic code readability": 20,
+    "Use of Git": 15,
+    "Error handling": 15,
+    "Documentation (README)": 10
+  },
+  "sde": {
+    "Functional correctness & tests": 30,
+    "Code quality & style": 20,
+    "Algorithmic efficiency": 15,
+    "Git usage & PRs": 10,
+    "Documentation & setup": 10,
+    "Security & validation": 10,
+    "Logging & error handling": 5
+  },
+  "architect": {
+    "Project structure & modularity": 25,
+    "Scalability & design decisions": 20,
+    "Security & secrets management": 15,
+    "CI/CD & automation": 15,
+    "Observability (logging/monitoring)": 10,
+    "Performance considerations": 10,
+    "Documentation & diagrams": 5
+  }
+}
